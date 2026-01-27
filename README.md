@@ -65,16 +65,15 @@ You can ask me anything, I'll gladly answer it if I can
 <img style="margin: 10px" src="assets/jupyter.svg" alt="Jupyter" title="Jupyter" height="40" />
 <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
-<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
+<!--<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" /> -->
 <img style="margin: 10px" src="assets/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
+<!--<img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" /> -->
 
 </td>
 <td align="center" valign="top">
 
 ### Data Science & Artificial intelligence
 
-<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/numpy.svg" alt="Numpy" title="Numpy" height="50" />
 <img style="margin: 10px" src="assets/pandas.svg" alt="Pandas" title="Pandas" height="50" />
 <img style="margin: 10px" src="assets/matplotlib.svg" alt="Matplotlib" title="Matplotlib" height="40" />
@@ -84,6 +83,7 @@ You can ask me anything, I'll gladly answer it if I can
 <img style="margin: 10px" src="assets/keras.svg" alt="Keras" title="Keras" height="50" />
 <img style="margin: 10px" src="assets/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="50" />
 <img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" />
+
 
 </td>
 </tr>
@@ -95,9 +95,9 @@ You can ask me anything, I'll gladly answer it if I can
 
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/django.svg" alt="Django" title="Django" height="50" />
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
-<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
+<!--<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" /> -->
+<!--<img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" /> -->
+<!--<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" /> -->
 
 </td>
 <td align="center" valign="top">
