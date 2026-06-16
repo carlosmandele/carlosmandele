@@ -11,7 +11,7 @@
   <a href="https://twitter.com/carloskalombola" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/ckmandele" target="_blank">
+  <a href="https://linkedin.com/in/cmandelek" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=carlosmandele&color=yellow" alt="Profile views" />
  </a>
   <a href="https://github.com/carlosmandele" target="_blank">
-    <img src="https://img.shields.io/github/followers/carlosmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/github/followers/carlosmandele?style=social" alt="GitHub Followers" style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/carlosmandele" target="_blank">
     <img src="https://img.shields.io/github/stars/carlosmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
