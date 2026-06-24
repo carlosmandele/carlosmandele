@@ -83,6 +83,7 @@ You can ask me anything, I'll gladly answer it if I can
 <img style="margin: 10px" src="assets/keras.svg" alt="Keras" title="Keras" height="50" />
 <img style="margin: 10px" src="assets/tensorflow.svg" alt="TensorFlow" title="TensorFlow" height="50" />
 <img style="margin: 10px" src="assets/opencv.svg" alt="OpenCV" title="OpenCV" height="50" />
+<img style="margin: 10px" src="assets/langchain.svg" alt="LangChain" title="LangChain" height="50" />
 
 
 </td>
